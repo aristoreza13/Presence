@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360972346269",
+    "project_id": "presenceapp-968dc",
+    "storage_bucket": "presenceapp-968dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360972346269:android:74dd911dbdeeb8fe02c574",
+        "android_client_info": {
+          "package_name": "com.example.presence_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360972346269-6rtd372a75ckqj8jr9f8u51cr8cj3e01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGsTr11SBPONA2S2WoijpdiepnC7wemRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360972346269-6rtd372a75ckqj8jr9f8u51cr8cj3e01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
